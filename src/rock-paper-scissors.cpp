@@ -1,13 +1,5 @@
-//
-//  main.cpp
-//  RockPaperScissor
-//
-//  Created by Damilola on 23/11/2023.
-//
-
 #include <iostream>
-#include <iostream>
-#include <cctype>
+#include <cstring>
 
 
 void printScore(int userScore, int computerScore);
